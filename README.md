@@ -92,7 +92,7 @@ Recruiters logging in through their dedicated portal can:
 
 ## 🚀 Live Demo
 
-🌐 Try Work Hive Live
+🌐 Click this: [https://work-hive-1ack.vercel.app](https://work-hive-1ack.vercel.app/)
 ## Getting Started
 
 To get started with the Task-Pilot project, follow these steps:
