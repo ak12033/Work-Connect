@@ -1,6 +1,6 @@
-# 🐝 Work Hive
+# 🐝 Work Connect
 
-**Work Hive** is a full-stack job portal application built with the **MERN stack**, providing a platform for job seekers to explore opportunities and for recruiters to manage job postings and applications. It integrates **Clerk** for seamless authentication and **Sentry** for real-time error and performance monitoring.
+**Work Connect** is a full-stack job portal application built with the **MERN stack**, providing a platform for job seekers to explore opportunities and for recruiters to manage job postings and applications. It integrates **Clerk** for seamless authentication and **Sentry** for real-time error and performance monitoring.
 
 ---
 
@@ -98,7 +98,7 @@ Recruiters logging in through their dedicated portal can:
 
 ## Getting Started
 
-To get started with the Work-Connect project, follow these steps:
+To get started with the Work Connect project, follow these steps:
 
 1. Clone the repository from GitHub:
 
