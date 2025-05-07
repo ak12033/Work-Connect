@@ -93,9 +93,12 @@ Recruiters logging in through their dedicated portal can:
 ## 🚀 Live Demo
 
 🌐 Click this: [https://work-hive-1ack.vercel.app](https://work-hive-1ack.vercel.app/)
+
+---
+
 ## Getting Started
 
-To get started with the Task-Pilot project, follow these steps:
+To get started with the Work-Connect project, follow these steps:
 
 1. Clone the repository from GitHub:
 
