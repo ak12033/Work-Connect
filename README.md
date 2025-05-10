@@ -1,4 +1,4 @@
-# 🐝 Work Connect
+# 🧑‍💻 Work Connect
 
 **Work Connect** is a full-stack job portal application built with the **MERN stack**, providing a platform for job seekers to explore opportunities and for recruiters to manage job postings and applications. It integrates **Clerk** for seamless authentication and **Sentry** for real-time error and performance monitoring.
 
